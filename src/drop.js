@@ -1,7 +1,7 @@
 import React from 'react';
 function Drp(){
     return(
-        <div>Hello World here iam</div>
+        <div>Hello World</div>
     )
 }
 export default Drp;
