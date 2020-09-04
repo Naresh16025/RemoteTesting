@@ -1,0 +1,13 @@
+git init
+git clone link
+git config --global user.name 'username'
+git config --global user.email 'email'
+git add
+git commit -m 'Comments'
+git status
+git log
+git restore filename(before adding/before committing)
+git revert id (after adding/after committing)
+git revert -n id (we have to explicitly commit)
+git push
+git reset --hard id (Jumping to specific version) 
